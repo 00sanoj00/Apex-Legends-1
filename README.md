@@ -1,2 +1,2 @@
 # Apex-Legends
-Update 04.11.2019 actual working commands
+Update 10.11.2019 actual working commands
